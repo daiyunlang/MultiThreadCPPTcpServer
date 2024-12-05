@@ -1,0 +1,7 @@
+.qtc_clangd/
+bin/
+debug/
+release/
+.qmake.stash
+*.user
+Makefile*
